@@ -1,0 +1,24 @@
+/*
+Theme Name: Lilim
+Theme URI: http://moe.akibarika.org
+Author: Rika Akiba
+Author URI: http://moe.akibarika.org
+Description: AkibaRika site theme. Theme main structure is made by Hermit(http://blog.otakism.org/).
+Version: 1.0
+License: CC BY-NC-SA 3.0
+*/
+
+
+/*global setting*/
+@font-face {
+    font-family: "Dosis";
+    font-style: normal;
+    font-weight: 200;
+    src: local("Dosis ExtraLight"), local("Dosis-ExtraLight"), url("http://themes.googleusercontent.com/static/fonts/dosis/v1/zuuDDmIlQfJeEM3Uf6kkpvesZW2xOQ-xsNqO47m55DA.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Lato Light"), local("Lato-Light"), url("http://themes.googleusercontent.com/static/fonts/lato/v6/kcf5uOXucLcbFOydGU24WALUuEpTyoUstqEm5AMlJo4.woff") format("woff");
